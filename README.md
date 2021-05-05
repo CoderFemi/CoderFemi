@@ -8,6 +8,7 @@ Prior to starting out as a developer, I worked for over a decade in finance and 
 
 ### My Resume
 <img style="align:left; width:80px" alt="LinkedIn" src="https://www.linkedin.com/in/femi-agbebi/" />
+<a href="https://www.linkedin.com/in/femi-agbebi/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
 
 ### Deployed Personal Projects
 - [ClassBook](https://classbook-femi.herokuapp.com/) - A web app for schools and institutions that helps admins and teachers provide real-time progress reports for their students.
@@ -18,7 +19,7 @@ Prior to starting out as a developer, I worked for over a decade in finance and 
 
 ### Languages and Tools
 
-<img style="align:left; width:26px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="vertical-align:top; margin:4px" height="40" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img style="align:left; width:26px" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img style="align:left; width:26px" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img style="align:left; width:26px" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
