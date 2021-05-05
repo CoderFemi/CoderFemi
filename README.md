@@ -7,13 +7,9 @@ Hello!  I'm Femi, a budding web developer and professional accountant. I've been
 Prior to starting out as a developer, I worked for over a decade in finance and accounting. My past experience with problem-solving, number-crunching and financial analysis on spreadsheets and ERP solution software has been a solid bedrock for me as a new techie, enabling me grasp programming concepts easily and apply critical-thinking to solving complex and logical problems with code.
 
 ### My Resume
-<a href="https://www.linkedin.com/in/femi-agbebi/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="40" style="color:#00ff00"></a>
+<!-- <a href="https://www.linkedin.com/in/femi-agbebi/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="40" style="align:left"></a> -->
+Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 
-Connect on [<img align="left" alt="LinkedIn" width="80" src="https://github.com/CoderFemi/CoderFemi/blob/master/linkedin.ico" />](https://www.linkedin.com/in/femi-agbebi/)
-
-[![Connect with me](https://data.jsdelivr.com/v1/package/npm/@welcome-icons/linkedin/badge)](https://www.linkedin.com/in/femi-agbebi/)
-
-[![Connect with me](https://data.jsdelivr.com/v1/package/npm/@dcp-ui/icons.linkedin/badge)](https://www.linkedin.com/in/femi-agbebi/)
 
 ### Deployed Personal Projects
 - [ClassBook](https://classbook-femi.herokuapp.com/) - A web app for schools and institutions that helps admins and teachers provide real-time progress reports for their students. Powered by Node.js, Express and MongoDB, server-side rendering with EJS.
