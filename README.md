@@ -4,12 +4,10 @@
 
 Hello!  I'm Femi, a web developer and professional accountant. I've been coding since 2019 and I have built several web apps demonstrating my hands-on knowledge of React, Node.js, MongoDB and Express - the MERN stack.
 
-<!-- Hello! I'm Femi, a budding web developer and professional accountant. I've been coding since 2019, starting with Javascript basics. After working through the FreeCodeCamp curriculum, I took several courses on Udemy and earned my certificates. I've built several web apps demonstrating my hands-on knowledge of React, Node.js, MongoDB and Express - the MERN stack. -->
-
 Prior to starting out as a developer, I worked for over a decade in finance and accounting. My past experience with problem-solving, number-crunching and financial analysis on spreadsheets and ERP solution software has been a solid bedrock for me as a techie, enabling me grasp programming concepts easily and apply critical-thinking to solving complex and logical problems with code.
 
 ### My Resume
-<!-- <a href="https://www.linkedin.com/in/femi-agbebi/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="40" style="align:left"></a> -->
+
 Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 
 
