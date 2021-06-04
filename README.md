@@ -13,10 +13,11 @@ Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 
 ### Deployed Personal Projects
 - [ClassBook](https://classbook-femi.herokuapp.com/) - A web app for schools and institutions that helps admins and teachers provide real-time progress reports for their students. Powered by Node.js, Express and MongoDB, server-side rendering with EJS.
+- [ClassBook-V2](https://classbook-v2.herokuapp.com/) - Version 2.0 of the classbook app, redesigned with client-side rendering. The backend was reconfigured as an API consumed by a React Front end, using Node.js, Express, MongoDB and React 17. Webpack was used to bundle assets.
 - [Bibliotech](https://bibliotech-femi.herokuapp.com/) - A simple web app for library administration. Powered by Real-time Firestore database, React front-end.
 - [BankFinder](https://femi-bank-app.herokuapp.com/) - An API consolidating branch information for all banks in the country. Node.js API consumed by a simple Javascript front-end.
 
-🔭 I’m currently working on **ClassBook 2.0**. Building a React front-end for the ClassBook app aims to reduce round-trips to the server to a bare minimum, making the app lighter and faster.
+🔭 I’m currently expanding my skills to include hands-on knowledge of microservices, typescript and also daily keeping up with algorithms and data structures practice.
 
 ### Languages and Tools
 
