@@ -12,12 +12,13 @@ Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 
 
 ### Deployed Personal Projects
+- [ClosetSweep](http://www.closetsweep.xyz/) - A microservices app for posting yard sales, using NodeJS, Express.js, Docker, Kubernetes, Typescript and React. CI/CD via Github and deployed on the Digital Ocean Platform.
 - [ClassBook](https://classbook-femi.herokuapp.com/) - A web app for schools and institutions that helps admins and teachers provide real-time progress reports for their students. Powered by Node.js, Express and MongoDB, server-side rendering with EJS.
 - [ClassBook-V2](https://classbook-v2.herokuapp.com/) - Version 2.0 of the classbook app, redesigned with client-side rendering. The backend was reconfigured as an API consumed by a React Front end, using Node.js, Express, MongoDB and React 17. Webpack was used to bundle assets.
 - [Bibliotech](https://bibliotech-femi.herokuapp.com/) - A simple web app for library administration. Powered by Real-time Firestore database, React front-end.
 - [BankFinder](https://femi-bank-app.herokuapp.com/) - An API consolidating branch information for all banks in the country. Node.js API consumed by a simple Javascript front-end.
 
-🔭 I’m currently expanding my skills to include hands-on knowledge of microservices, typescript and also daily keeping up with algorithms and data structures practice.
+🔭 I’m currently searching for a developer role with emphasis on backend technologies.
 
 ### Languages and Tools
 
@@ -36,6 +37,12 @@ Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 <img style="vertical-align:top; margin:4px" height="40" alt="Mongoose" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img style="vertical-align:top; margin:4px" height="40" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img style="vertical-align:top; margin:4px" height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</p>
+<img style="vertical-align:top; margin:4px" height="40" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+</p>
+<img style="vertical-align:top; margin:4px" height="40" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+</p>
+<img style="vertical-align:top; margin:4px" height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFemi&theme=tokyonight)
