@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hello!  I'm Femi, a web developer and professional accountant. I've been coding since 2019 and I have built several web apps demonstrating my hands-on knowledge of React, Node.js, MongoDB and Express - the MERN stack.
+Hello!  I'm Femi, a web developer and professional accountant. I've been coding since 2019 and I have built several web apps demonstrating my hands-on knowledge of React, Node.js, MongoDB and Express - the MERN stack - as well as Python, Django and the Django Rest Framework.
 
 Prior to starting out as a developer, I worked for over a decade in finance and accounting. My past experience with problem-solving, number-crunching and financial analysis on spreadsheets and ERP solution software has been a solid bedrock for me as a techie, enabling me grasp programming concepts easily and apply critical-thinking to solving complex and logical problems with code.
 
@@ -40,6 +40,9 @@ Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 <img style="vertical-align:top; margin:4px" height="40" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img style="vertical-align:top; margin:4px" height="40" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img style="vertical-align:top; margin:4px" height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img style="vertical-align:top; margin:4px" height="40" alt="Postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img style="vertical-align:top; margin:4px" height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img style="vertical-align:top; margin:4px" height="40" alt="Django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFemi&theme=tokyonight)
