@@ -2,9 +2,9 @@
 
 ### About Me
 
-Hello!  I'm Femi, a web developer and professional accountant. I've been coding since 2019 and I have built several web apps demonstrating my hands-on knowledge of React, Node.js, MongoDB and Express - the MERN stack - as well as Python, Django and the Django Rest Framework.
+Hello!  I'm Femi, a data analyst and professional accountant.
 
-Prior to starting out as a developer, I worked for over a decade in finance and accounting. My past experience with problem-solving, number-crunching and financial analysis on spreadsheets and ERP solution software has been a solid bedrock for me as a techie, enabling me grasp programming concepts easily and apply critical-thinking to solving complex and logical problems with code.
+Prior to starting out as a data analyst, I worked for over a decade in finance and accounting. My past experience with problem-solving, number-crunching and financial analysis on spreadsheets and ERP solution software has been a solid bedrock for me as a techie, enabling me grasp programming concepts easily and apply critical-thinking to solving complex and logical problems with code.
 
 ### My Resume
 
@@ -18,7 +18,6 @@ Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 - [Bibliotech](https://bibliotech-femi.herokuapp.com/) - A simple web app for library administration. Powered by Real-time Firestore database, React front-end.
 - [BankFinder](https://femi-bank-app.herokuapp.com/) - An API consolidating branch information for all banks in the country. Node.js API consumed by a simple Javascript front-end.
 
-🔭 I’m currently searching for a developer role with emphasis on backend technologies.
 
 ### Languages and Tools
 
