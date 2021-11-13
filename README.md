@@ -42,6 +42,7 @@ Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 <img style="vertical-align:top; margin:4px" height="40" alt="Postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img style="vertical-align:top; margin:4px" height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img style="vertical-align:top; margin:4px" height="40" alt="Django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img style="vertical-align:top; margin:4px" height="40" alt="Jupyter Notebook" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderFemi&theme=tokyonight)
