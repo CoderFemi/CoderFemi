@@ -12,6 +12,7 @@ Connect on [LinkedIn](https://www.linkedin.com/in/femi-agbebi/)
 
 
 ### Deployed Personal Projects
+- [COVID-19 Vaccination Analysis](https://github.com/CoderFemi/DataAnalysis/tree/main/covid-vaccination-analysis-v-25) - An analysis of worldwide COVID-19 vaccination progress providing meaningful insights and solutions using Python, Pandas, Matplotlib and Seaborn.
 - [ClosetSweep](http://www.closetsweep.xyz/) - A microservices app for posting yard sales, using NodeJS, Express.js, Docker, Kubernetes, Typescript and React. CI/CD via Github and deployed on the Digital Ocean Platform.
 - [ClassBook](https://classbook-femi.herokuapp.com/) - A web app for schools and institutions that helps admins and teachers provide real-time progress reports for their students. Powered by Node.js, Express and MongoDB, server-side rendering with EJS.
 - [ClassBook-V2](https://classbook-v2.herokuapp.com/) - Version 2.0 of the classbook app, redesigned with client-side rendering. The backend was reconfigured as an API consumed by a React Front end, using Node.js, Express, MongoDB and React 17. Webpack was used to bundle assets.
